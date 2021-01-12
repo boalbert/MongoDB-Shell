@@ -1,8 +1,16 @@
 # Lab 3 - Manipulera data i Mongo Shell
 
-## Övningsuppgift i Mongo Shell VT2020.
+### Kurs: Utveckling mot databas och databasadministration
+
+### Övningsuppgift i Mongo Shell VT2020.
+
+------
+
+
 
 AlbertAndersson.txt innehåller mina lösningar.
+
+
 
 **Exempel**: Uppgift 14. Visa endast attributen FirstName, LastName och Death för de författare som dog på 1940-talet.
 
