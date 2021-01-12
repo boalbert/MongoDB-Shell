@@ -3,6 +3,7 @@
 ------
 
 Övningsuppgift i Mongo Shell VT2020.
+AlbertAndersson.txt innehåller mina lösningar.
 
 **Exempel**
 
