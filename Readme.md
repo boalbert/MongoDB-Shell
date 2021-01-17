@@ -2,7 +2,7 @@
 
 ## Utveckling mot databas och databasadministration
 
-------
+
 
 Denna repository innehåller mina lösningar för Lab 3 i kursen "Utveckling mot databas och databasadministration".
 
